@@ -1,6 +1,6 @@
 # PizzaWithFriends
 ## An App by Marcus, Michael, and Kapil
-### A Vision of Luke Juusola
+### The Vision of Luke Juusola
 
 Objective: Search through phone/Facebook contacts every 5 minutes and check if the contact has Domino's Pizza on the way
 Steps:

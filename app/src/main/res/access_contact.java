@@ -13,6 +13,7 @@ import android.widget.AdapterView;
 import android.content.ContentResolver;
 import android.widget.Toast;
 import android.content.ContentProvider;
+import android.content.Context;
 
 public class access_contact{
 
